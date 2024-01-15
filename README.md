@@ -37,4 +37,4 @@ As trocas de lado durante o Tiebreak também deve ser automáticas e também est
 
 Como opcional, pode-se inserir 2 leds (um pra cada equipe), para indicar qual time vai sacar.
 DICA: Use a biblioteca SEVSEG! 
-
+<img src="https://i.ibb.co/nLkypMw/Captura-de-tela-2024-01-15-182636.png" alt="Captura-de-tela-2024-01-15-182636" border="0">
